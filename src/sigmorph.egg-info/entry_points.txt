@@ -1,0 +1,2 @@
+[console_scripts]
+sigmorph = sigmorph.cli:app
