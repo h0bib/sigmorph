@@ -1,5 +1,7 @@
 # sigmorph
 
+https://pypi.org/project/sigmorph/0.1.0/
+
 > Built by YAHIAOUI Hadj Habib (chaos.hh@gmail.com)
 
 **sigmorph** is a Python library that generates **explainable Sigma detection rules** from suspicious Windows process events.
